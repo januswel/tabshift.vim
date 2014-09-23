@@ -1,5 +1,5 @@
 *tabshift.txt*	Plugin to shift a tabpage with relative addressing
-                                                Last change: 2014 Sep 16.
+                                                Last change: 2014 Sep 24.
 
 SYNOPSIS						*tabshift-synopsis*
 >
@@ -49,7 +49,7 @@ g:loaded_tabshift
 Author
 	janus_wel <janus.wel.3@gmail.com>
 Copyright
-	(c) 2014 by janus_wel
+	(c) 2010-2014 by janus_wel
 License
 	This material may be distributed only subject to the terms and
 	conditions set forth in the Open Publication License, v1.0 or later
